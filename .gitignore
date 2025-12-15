@@ -43,6 +43,4 @@ bin/
 .DS_Store
 
 run/
-gradlew
-graldew.bat
 src/generated/resources/.cache
